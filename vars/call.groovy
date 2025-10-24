@@ -22,4 +22,3 @@ def call(body) {
     println ">> Global Library Hook: PIPELINE COMPLETE"
     println "================================================"
 }
-call()
